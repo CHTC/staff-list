@@ -3,7 +3,7 @@ draft: false
 image: "images/cannon_lock.jpg"
 title: "Web Developer"
 institution: "Morgridge Institute for Research"
-#website: ""
+status: Staff
 linkedinurl: ""
 weight: 5
 organizations: 

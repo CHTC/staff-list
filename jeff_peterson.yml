@@ -4,6 +4,7 @@ draft: false
 image: "images/jeff_peterson.jpg"
 title: "System Administrator"
 institution: "Morgridge Institute"
+status: Staff
 website: http://opensciencegrid.org
 weight: 5
 organizations: 

@@ -5,6 +5,7 @@ image: "images/greg_thain.jpg"
 title: "Senior Systems Software Developer"
 #website: ""
 institution: "University of Wisconsin-Madison"
+status: Staff
 weight: 5
 chtc: 
     title: HTCondor Core Developer
