@@ -4,6 +4,7 @@ institution: Morgridge Institute for Research
 status: Student
 organizations:
   - chtc
+image: images/pratham_patel.jpg
 
 fellowship:
   name: Enhancing container image build system

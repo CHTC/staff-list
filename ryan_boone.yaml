@@ -4,6 +4,7 @@ institution: Morgridge Institute for Research
 status: Student
 organizations:
   - chtc
+image: images/ryan_boone.jpg
 
 fellowship:
   name: Grid Exerciser

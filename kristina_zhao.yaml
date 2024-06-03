@@ -1,4 +1,12 @@
 name: Kristina Zhao
+title: Fellow
+institution: Morgridge Institute for Research
+status: Student
+organizations:
+  - chtc
+image: images/kristina_zhao.jpg
+
+
 fellowship:
   name: Integrating PyTorch and Pelican
   description: |

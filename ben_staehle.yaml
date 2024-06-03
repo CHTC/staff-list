@@ -4,6 +4,7 @@ institution: Morgridge Institute for Research
 status: Student
 organizations:
   - chtc
+image: images/ben_staehle.jpg
 
 fellowship:
   name: Tracking server inventory and elevation

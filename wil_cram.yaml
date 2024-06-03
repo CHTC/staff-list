@@ -4,6 +4,7 @@ institution: Morgridge Institute for Research
 status: Student
 organizations:
   - chtc
+image: images/wil_cram.jpg
 
 fellowship:
   name: Schedd performance analysis for human

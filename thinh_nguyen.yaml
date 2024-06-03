@@ -4,6 +4,7 @@ institution: Morgridge Institute for Research
 status: Student
 organizations:
   - chtc
+image: images/thinh_nguyen.jpg
 
 fellowship:
   name: ML for failure classification in the OSPool
