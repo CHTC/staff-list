@@ -1,0 +1,12 @@
+name: "Molly McCarthy"
+image: "images/molly_mccarthy.jpeg"
+title: "Student Web Developer"
+institution: "Morgridge Institute for Research"
+website: null
+weight: 3
+status: Student
+organizations:
+  - path
+  - chtc
+  - osg
+  - pelican
