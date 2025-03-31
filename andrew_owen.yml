@@ -3,6 +3,7 @@ institution: University of Wisconsin-Madison
 title: Research Computing Facilitator
 is_facilitator: 1
 name: Andrew Owen
+weight: 5
 status: Staff
 website: null
 organizations: 
