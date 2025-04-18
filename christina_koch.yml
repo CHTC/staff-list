@@ -18,6 +18,8 @@ osg:
     title: OSG Research Facilitation Lead
     promoted: true
     weight: 7
+path:
+    description: "This is a example of a the addition of a description. It is just a string and not markdown. It is the same general size as the others so the balance is nice :) When I am added I will be updated on the path website within a hour when new submodules get auto pulled in."
 organizations: 
     - path
     - chtc
