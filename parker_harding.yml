@@ -1,0 +1,10 @@
+name: "Parker Harding"
+image: "images/parker_harding.jpg"
+title: "Associate IT Professional"
+website: "https://www.linkedin.com/feed/"
+institution: "Job Rotation Program/Center for High Throughput Computing"
+description: "Parker Harding has a dog named Cutie"
+staff: "Rotator/Staff"
+organizations:
+  - chtc
+  - jrp
