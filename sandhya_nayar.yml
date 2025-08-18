@@ -15,10 +15,10 @@ fellowship:
     who are trying to utilize historical job data. Currently,
     condor_history manually parses through flat files to get users
     their data; this makes it significantly harder to use, especially
-    for older jobs, with no easy way to create useful aggregates. 
-  
-    This project aimed to create the “Archive Librarian” service,
-    which indexes job records from the HTCondor history archive to
+    for older jobs, with no easy way to create useful aggregates.
+    
+    This project focused on the creation of the “Archive Librarian” service,
+    to index job records from the HTCondor history archive and
     improve the usability of historical job data. Each job's “address”,
     which is the combination of an offset and file metadata of a
     historical archive file, is stored in a database. This allows
